@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: localhost
--- Tiempo de generación: 13-11-2023 a las 21:10:51
+-- Tiempo de generación: 13-11-2023 a las 23:58:13
 -- Versión del servidor: 10.4.28-MariaDB
 -- Versión de PHP: 8.2.4
 
@@ -95,16 +95,16 @@ CREATE TABLE `LineasCompra` (
 --
 
 INSERT INTO `LineasCompra` (`id_numero`, `compras_id`, `producto`, `importe`) VALUES
-(1, 10, 'alfombra top baño', 4235),
-(2, 9, 'alfombra microf/baño', 6666),
-(3, 1, 'lavandina', 978),
-(4, 2, 'franela', 660),
-(5, 3, 'bolsa residuos', 1016),
-(6, 4, 'toalla intercalada', 5798),
-(7, 5, 'jabón líquido', 2868),
-(8, 6, 'líquido piso', 1355),
-(9, 7, 'papel higiénico', 5823),
-(10, 8, 'alcohol etílico', 6207);
+(1, 10, 'alfombra top baño', 4235.35),
+(2, 9, 'alfombra microf/baño', 6666.28),
+(3, 1, 'lavandina', 978.08),
+(4, 2, 'franela', 660.6),
+(5, 3, 'bolsa residuos', 1016.2),
+(6, 4, 'toalla intercalada', 5798.4),
+(7, 5, 'jabón líquido', 2868.47),
+(8, 6, 'líquido piso', 1355.47),
+(9, 7, 'papel higiénico', 5823.15),
+(10, 8, 'alcohol etílico', 6207.25);
 
 --
 -- Índices para tablas volcadas
